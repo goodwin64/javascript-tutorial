@@ -48,7 +48,7 @@ alert( document.body instanceof Node ); // true
 Вывод `console.log(elem)` и `console.dir(elem)` различен.
 
 - `console.log` выводит элемент в виде, удобном для исследования HTML-структуры.
-- `console.dir` выводит элемент в виде JavaScript-объекта, удобно для анализа его свойств.
+- `console.dir` выводит элемент в виде JavaScript-объекта, удобном для анализа его свойств.
 
 Попробуйте сами на `document.body`.
 ```
